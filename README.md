@@ -1,4 +1,6 @@
  # Cooling System in high processing CPUs
+ 
+ ## Submitted by - G28
 
 ### [Liquid Cooling System](./LiquidCoolingGraphs.mlx)
 This file contains all the code used for Liquid Cooling System in the report.
